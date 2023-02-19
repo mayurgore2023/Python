@@ -1,9 +1,10 @@
 # Python
 
 
-# Q. program which contain one function named as Fun(),That function should display "Hello from fun" from on console:
+# Q. program which contain one function named as Fun(),That function should display "Hello from fun" on console:
 
 def Fun():
+
     print("Hello")
 
 
