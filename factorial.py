@@ -13,9 +13,6 @@ def main ():
     print("factorial is:",Factorial)
 
 
-
-
-
 if __name__=="__main__":
     main()
 
