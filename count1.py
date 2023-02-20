@@ -2,7 +2,7 @@
 #Q Program accepts number from user and return return count of digits in that number
 
 def main():
-    No=int(input())
+    No=int(input("Enter the number:))
     Digit_count=0
     while (No>0):
         Digit_count=Digit_count+1
